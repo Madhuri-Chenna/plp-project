@@ -1,0 +1,19 @@
+{
+  "name": "plp-project",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^3.0.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.0"
+  }
+}
